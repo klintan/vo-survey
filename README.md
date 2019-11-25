@@ -44,8 +44,14 @@ Some libraries are addded that do not have a ROS-wrapper, however they might be 
 | [SE2CLAM](https://github.com/izhengfan/se2clam) ![SE2CLAM](https://img.shields.io/github/stars/izhengfan/se2clam.svg)| 69 / Yes | geometry_msgs::PoseStamped | Yes | Yes | No | Yes | 1 | 2018 |  https://ieeexplore.ieee.org/document/8357438 | MIT | 
 | [VINS-FusionGPU](https://github.com/pjrambo/VINS-Fusion-gpu) |
 | [DSO](https://github.com/JakobEngel/dso_ros) ![DSO](https://img.shields.io/github/stars/JakobEngel/dso_ros.svg)| No | Yes | Yes | No | No | 1 | 2016 | https://vision.in.tum.de/_media/spezial/bib/engel2016dso.pdf | GPLv3 |
+| [DSO Ros2](https://github.com/goktug97/dso_ros2) | Yes |
 |[Edge Direct VO](https://github.com/kevinchristensen1/EdgeDirectVO) | Yes | N/A | Yes | No | No | None | 2019 | https://arxiv.org/abs/1906.04838 | N/A |
 | [Maplab](https://github.com/ethz-asl/maplab) |
+| [ORB_SLAM2 Ros2](https://github.com/alsora/ORB_SLAM2)| No | visualization_msgs::msg::Marker |
+| [SVO](https://github.com/uzh-rpg/rpg_svo) | No |
+| [SVO 2.0](https://github.com/uzh-rpg/rpg_svo_example) | No
+| [ROS Mono VO](https://github.com/atomoclast/ros_mono_vo) | No
+| [SIVO](https://github.com/navganti/SIVO) | Yes | GPLv3 |
 
 
 ### VO tools and calibration
@@ -53,3 +59,9 @@ Some libraries are addded that do not have a ROS-wrapper, however they might be 
 |---|---|---|---|---|---|---|---|---|---|---|
 |[VIO Data simulation](https://github.com/HeYijia/vio_data_simulation) | Yes | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | [VSLAM evaluation](https://github.com/nicolov/vslam_evaluation) |
+| [vicalib](https://github.com/arpg/vicalib) | No
+
+
+### Other VO resources
+
+https://github.com/avisingh599/mono-vo
