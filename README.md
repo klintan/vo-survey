@@ -59,8 +59,8 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 | [MSCKF_VIO](https://github.com/KumarRobotics/msckf_vio) ![MSCKF_VIO](https://img.shields.io/github/stars/KumarRobotics/msckf_vio.svg)| Yes | GPLv3/CC BY-NC 3.0-like |
 | [REBiVO](https://github.com/JuanTarrio/rebvo) ![REBiVO](https://img.shields.io/github/stars/JuanTarrio/rebvo.svg) | No | GPLv3 |
 | [R-VIO](https://github.com/rpng/R-VIO.git) ![R-VIO](https://img.shields.io/github/stars/rpng/R-VIO.svg) | Yes | GPLv3 |
-| [DeepVO Tensorflow](https://github.com/ildoonet/deepvo) ![DeepVO TF](https://img.shields.io/github/stars/ildoonet/deepvo.svg)| No | MIT |  
-| [DeepVO PyTorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) ![DeepVO PyTorch](https://img.shields.io/github/stars/ChiWeiHsiao/DeepVO-pytorch.svg)| Yes | N/A |
+| [DeepVO Tensorflow](https://github.com/ildoonet/deepvo) ![DeepVO TF](https://img.shields.io/github/stars/ildoonet/deepvo.svg)| No | MIT |  N/A | Yes / Yes | No | 2017 | https://arxiv.org/abs/1709.08429 |
+| [DeepVO PyTorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) ![DeepVO PyTorch](https://img.shields.io/github/stars/ChiWeiHsiao/DeepVO-pytorch.svg)| Yes | N/A | N/A | Yes / Yes | No | 2017 | https://arxiv.org/abs/1709.08429 |
 | [DF-VO](https://github.com/Huangying-Zhan/DF-VO) ![DF-VO](https://img.shields.io/github/stars/Huangying-Zhan/DF-VO.svg)| Yes | MIT | None | Yes / No | No | N/A | 2019 | https://arxiv.org/abs/1909.09803v2 |
 | [okvis](https://github.com/ethz-asl/okvis) ![okvis](https://img.shields.io/github/stars/ethz-asl/okvis.svg) | No | BSD-3 |
 | [geomapnet](https://github.com/NVlabs/geomapnet) ![geomapnet](https://img.shields.io/github/stars/NVlabs/geomapnet.svg)| Yes | CC BY-NC-SA 4.0 |
