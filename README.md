@@ -22,27 +22,27 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 
 ### Visual Odometry
 
-| Package  |  Active | License | Topics published |  Stereo | Mono  |  Omni | SLAM | ROS version | Year | Paper  | 
-|---|---|---|---|---|---|---|---|---|---|---|
-| [Learn VI-ORB](https://github.com/jingpang/LearnVIORB) ![Learn VI-ORB](https://img.shields.io/github/stars/jingpang/LearnVIORB.svg)| No | GPLv3 | None |  Yes |  Yes |  No | Yes  | 1 |	2016| https://arxiv.org/abs/1610.06475 |
-| [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) ![ORB-SLAM2](https://img.shields.io/github/stars/raulmur/ORB_SLAM2.svg)| No | GPLv3 | None |  Yes |  Yes | No  |  Yes | 1  | 2016|	https://arxiv.org/abs/1610.06475 |
-| [OpenVSLAM](https://github.com/xdspacelab/openvslam)  ![OpenVSLAM](https://img.shields.io/github/stars/xdspacelab/openvslam.svg)| Yes | MIT | None |  Yes |  Yes |  No | Yes  |  1 / 2  |	2019 |	https://arxiv.org/abs/1910.01122 | 
-| [VISO2](https://github.com/srv/viso2) ![VISO2](https://img.shields.io/github/stars/srv/viso2.svg)| No | GPLv3 | nav_msgs/Odometry / geometry_msgs/Pose| Yes | Yes | Yes | No | 1 | 2011 | http://t.cvlibs.net/publications/Geiger2011IV.pdf |
-| [XIVO](https://github.com/ucla-vision/xivo) ![XIVO](https://img.shields.io/github/stars/ucla-vision/xivo.svg)| Yes | GPLv3/CC BY-NC 3.0-like | None | Yes | Yes | No | N/A | 1 | 2019 | http://vision.ucla.edu/papers/tsotsosCS15.pdf |
-| [Rovio](https://github.com/ethz-asl/rovio) ![Rovio](https://img.shields.io/github/stars/ethz-asl/rovio.svg)| Yes | BSD-3 |None |  Yes | Yes | No | N/A | 1 | 2017 | https://www.research-collection.ethz.ch/handle/20.500.11850/263423 | MIT-like |
-|[Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) ![Kimera-Semantics](https://img.shields.io/github/stars/MIT-SPARK/Kimera-Semantics.svg)| Yes | BSD-2 |None | Yes | Yes | No | N/A | 1 | 2019 | https://arxiv.org/pdf/1910.02490.pdf |
-| [LSD-SLAM](https://github.com/tum-vision/lsd_slam) ![LSD-SLAM](https://img.shields.io/github/stars/tum-vision/lsd_slam.svg)| No | GPLv3 | None | No | Yes | No | N/A | 1 | 2014 | https://vision.in.tum.de/_media/spezial/bib/caruso2015_omni_lsdslam.pdf |
-|[CubeSLAM](https://github.com/shichaoy/cube_slam) ![CubeSLAM](https://img.shields.io/github/stars/shichaoy/cube_slam.svg)| Yes |  BSD-3 | None | Yes | Yes | No | Yes | 1 | 2019 | https://arxiv.org/abs/1806.00557 |
-| [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) ![VINS-Fusion](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/VINS-Fusion.svg)| Yes | GPLv3 | None | Yes | Yes | No | Yes | 1 | 2019 | https://ieeexplore.ieee.org/abstract/document/8593603 |
-| [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) ![VINS-Mono](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/VINS-Mono.svg)| Yes | GPLv3 | None | Yes | Yes | No | No | 1 | 2017 | https://ieeexplore.ieee.org/document/8421746/?arnumber=8421746&source=authoralert | 
-| [OpenVINS](https://github.com/rpng/open_vins) ![OpenVINS](https://img.shields.io/github/stars/rpng/open_vins.svg)| Yes | GPLv3 | None | Yes | Yes | No | N/A | 1 | 2019 | https://udel.edu/~ghuang/iros19-vins-workshop/papers/06.pdf | 
-| [SE2SLAM](https://github.com/izhengfan/se2lam) ![SE2SLAM](https://img.shields.io/github/stars/izhengfan/se2lam.svg)| Yes | MIT | geometry_msgs::Pose / geometry_msgs::PoseStamped | Yes | Yes | No | Yes | 1 | 2019 | https://fzheng.me/icra/2019.pdf | 
-| [SE2CLAM](https://github.com/izhengfan/se2clam) ![SE2CLAM](https://img.shields.io/github/stars/izhengfan/se2clam.svg)| Yes | MIT | geometry_msgs::PoseStamped | Yes | Yes | No | Yes | 1 | 2018 |  https://ieeexplore.ieee.org/document/8357438 | 
+| Package  |  Active | License | Topics published |  Stereo/Mono  | SLAM | ROS version | Year | Paper  | 
+|---|---|---|---|---|---|---|---|---|
+| [Learn VI-ORB](https://github.com/jingpang/LearnVIORB) ![Learn VI-ORB](https://img.shields.io/github/stars/jingpang/LearnVIORB.svg)| No | GPLv3 | None |  Yes / Yes | | Yes  | 1 |	2016| https://arxiv.org/abs/1610.06475 |
+| [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) ![ORB-SLAM2](https://img.shields.io/github/stars/raulmur/ORB_SLAM2.svg)| No | GPLv3 | None |  Yes / Yes | Yes | 1  | 2016|	https://arxiv.org/abs/1610.06475 |
+| [OpenVSLAM](https://github.com/xdspacelab/openvslam)  ![OpenVSLAM](https://img.shields.io/github/stars/xdspacelab/openvslam.svg)| Yes | MIT | None |  Yes / Yes | Yes  |  1 / 2  |	2019 |	https://arxiv.org/abs/1910.01122 | 
+| [VISO2](https://github.com/srv/viso2) ![VISO2](https://img.shields.io/github/stars/srv/viso2.svg)| No | GPLv3 | nav_msgs/Odometry / geometry_msgs/Pose| Yes / Yes | No | 1 | 2011 | http://t.cvlibs.net/publications/Geiger2011IV.pdf |
+| [XIVO](https://github.com/ucla-vision/xivo) ![XIVO](https://img.shields.io/github/stars/ucla-vision/xivo.svg)| Yes | GPLv3/CC BY-NC 3.0-like | None | Yes / Yes | N/A | 1 | 2019 | http://vision.ucla.edu/papers/tsotsosCS15.pdf |
+| [Rovio](https://github.com/ethz-asl/rovio) ![Rovio](https://img.shields.io/github/stars/ethz-asl/rovio.svg)| Yes | BSD-3 |None |  Yes / Yes | N/A | 1 | 2017 | https://www.research-collection.ethz.ch/handle/20.500.11850/263423 | MIT-like |
+|[Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) ![Kimera-Semantics](https://img.shields.io/github/stars/MIT-SPARK/Kimera-Semantics.svg)| Yes | BSD-2 | None | Yes / Yes | N/A | 1 | 2019 | https://arxiv.org/pdf/1910.02490.pdf |
+| [LSD-SLAM](https://github.com/tum-vision/lsd_slam) ![LSD-SLAM](https://img.shields.io/github/stars/tum-vision/lsd_slam.svg)| No | GPLv3 | None | No / Yes | N/A | 1 | 2014 | https://vision.in.tum.de/_media/spezial/bib/caruso2015_omni_lsdslam.pdf |
+|[CubeSLAM](https://github.com/shichaoy/cube_slam) ![CubeSLAM](https://img.shields.io/github/stars/shichaoy/cube_slam.svg)| Yes |  BSD-3 | None | Yes / Yes | Yes | 1 | 2019 | https://arxiv.org/abs/1806.00557 |
+| [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) ![VINS-Fusion](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/VINS-Fusion.svg)| Yes | GPLv3 | None | Yes / Yes | Yes | 1 | 2019 | https://ieeexplore.ieee.org/abstract/document/8593603 |
+| [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) ![VINS-Mono](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/VINS-Mono.svg)| Yes | GPLv3 | None | Yes / Yes | No | 1 | 2017 | https://ieeexplore.ieee.org/document/8421746/?arnumber=8421746&source=authoralert | 
+| [OpenVINS](https://github.com/rpng/open_vins) ![OpenVINS](https://img.shields.io/github/stars/rpng/open_vins.svg)| Yes | GPLv3 | None | Yes / Yes | N/A | 1 | 2019 | https://udel.edu/~ghuang/iros19-vins-workshop/papers/06.pdf | 
+| [SE2SLAM](https://github.com/izhengfan/se2lam) ![SE2SLAM](https://img.shields.io/github/stars/izhengfan/se2lam.svg)| Yes | MIT | geometry_msgs::Pose / geometry_msgs::PoseStamped | Yes / Yes | Yes | 1 | 2019 | https://fzheng.me/icra/2019.pdf | 
+| [SE2CLAM](https://github.com/izhengfan/se2clam) ![SE2CLAM](https://img.shields.io/github/stars/izhengfan/se2clam.svg)| Yes | MIT | geometry_msgs::PoseStamped | Yes / Yes | Yes | 1 | 2018 |  https://ieeexplore.ieee.org/document/8357438 | 
 | [VINS-FusionGPU](https://github.com/pjrambo/VINS-Fusion-gpu) ![VINS-FusionGPU](https://img.shields.io/github/stars/pjrambo/VINS-Fusion-gpu.svg)| No | GPLv3 |
-| [DSO](https://github.com/JakobEngel/dso_ros) ![DSO](https://img.shields.io/github/stars/JakobEngel/dso_ros.svg)| No | GPLv3 | None | Yes | Yes | No | No | No | 1 | 2016 | https://vision.in.tum.de/_media/spezial/bib/engel2016dso.pdf | 
+| [DSO](https://github.com/JakobEngel/dso_ros) ![DSO](https://img.shields.io/github/stars/JakobEngel/dso_ros.svg)| No | GPLv3 | None | Yes / Yes | No | No | 1 | 2016 | https://vision.in.tum.de/_media/spezial/bib/engel2016dso.pdf | 
 | [DSO Ros2](https://github.com/goktug97/dso_ros2) | Yes | GPLv3 |
-|[Edge Direct VO](https://github.com/kevinchristensen1/EdgeDirectVO) | Yes | N/A | N/A | Yes | No | No | No | None | 2019 | https://arxiv.org/abs/1906.04838 | N/A |
-| [Maplab](https://github.com/ethz-asl/maplab) ![Maplab](https://img.shields.io/github/stars/ethz-asl/maplab.svg) | Yes | GPLv3 | N/A | Yes | Yes | No | Yes | 1 | 2018 | https://arxiv.org/abs/1711.10250 |
+|[Edge Direct VO](https://github.com/kevinchristensen1/EdgeDirectVO) | Yes | N/A | N/A | Yes / No | No | None | 2019 | https://arxiv.org/abs/1906.04838 | N/A |
+| [Maplab](https://github.com/ethz-asl/maplab) ![Maplab](https://img.shields.io/github/stars/ethz-asl/maplab.svg) | Yes | GPLv3 | N/A | Yes / Yes | Yes | 1 | 2018 | https://arxiv.org/abs/1711.10250 |
 | [ORB_SLAM2 Ros2](https://github.com/alsora/ORB_SLAM2) ![ORB_SLAM2 Ros2](https://img.shields.io/github/stars/alsora/ORB_SLAM2.svg)| No | GPLv3 | visualization_msgs::msg::Marker |
 | [SVO](https://github.com/uzh-rpg/rpg_svo) ![SVO](https://img.shields.io/github/stars/uzh-rpg/rpg_svo.svg)| No | GPLv3 | 
 | [SVO 2.0](https://github.com/uzh-rpg/rpg_svo_example) | No | N/A (GPLv3?) |
@@ -61,7 +61,7 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 | [R-VIO](https://github.com/rpng/R-VIO.git) ![R-VIO](https://img.shields.io/github/stars/rpng/R-VIO.svg) | Yes | GPLv3 |
 | [DeepVO Tensorflow](https://github.com/ildoonet/deepvo) ![DeepVO TF](https://img.shields.io/github/stars/ildoonet/deepvo.svg)| No | MIT |  
 | [DeepVO PyTorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) ![DeepVO PyTorch](https://img.shields.io/github/stars/ChiWeiHsiao/DeepVO-pytorch.svg)| Yes | N/A |
-| [DF-VO](https://github.com/Huangying-Zhan/DF-VO) ![DF-VO](https://img.shields.io/github/stars/Huangying-Zhan/DF-VO.svg)| Yes | MIT |
+| [DF-VO](https://github.com/Huangying-Zhan/DF-VO) ![DF-VO](https://img.shields.io/github/stars/Huangying-Zhan/DF-VO.svg)| Yes | MIT | None | Yes / No | No | N/A | 2019 | https://arxiv.org/abs/1909.09803v2 |
 | [okvis](https://github.com/ethz-asl/okvis) ![okvis](https://img.shields.io/github/stars/ethz-asl/okvis.svg) | No | BSD-3 |
 | [geomapnet](https://github.com/NVlabs/geomapnet) ![geomapnet](https://img.shields.io/github/stars/NVlabs/geomapnet.svg)| Yes | CC BY-NC-SA 4.0 |
 | [Momo](https://github.com/johannes-graeter/momo) ![Momo](https://img.shields.io/github/stars/johannes-graeter/momo.svg)| No | LGPLv3 |
@@ -92,3 +92,4 @@ https://github.com/AtsushiSakai/PythonRobotics
 https://github.com/tzutalin/awesome-visual-slam
 https://github.com/marknabil/SFM-Visual-SLAM
 https://github.com/openMVG/awesome_3DReconstruction_list
+https://nbviewer.jupyter.org/github/kafendt/List-of-SLAM-VO-algorithms/blob/master/SLAM_table.pdf
