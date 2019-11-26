@@ -3,7 +3,7 @@ I've been trying to find a ROS2 package for visual odometry that publishes an od
 
 Contributions and updates are appreciated! Preferably a PR, if not create an issue if you see any problems.
 
-Beware and avoid the GPL licensed stuff, mostly just there for reference and for people in research.
+Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there for reference and for people in research.
 
 ## Definitions of terms:
 - Odometry - in ROS twist (rotation) and pose (translation) of the robot
@@ -51,16 +51,20 @@ Beware and avoid the GPL licensed stuff, mostly just there for reference and for
 | [dslam open](https://github.com/uzh-rpg/dslam_open) | Yes | GPLv3 |
 | [LIMO](https://github.com/johannes-graeter/limo) ![LIMO](https://img.shields.io/github/stars/johannes-graeter/limo.svg)| Yes | GPLv3 |
 | [Stereo DSO](https://github.com/HorizonAD/stereo_dso) ![Stereo DSO](https://img.shields.io/github/stars/HorizonAD/stereo_dso.svg)| No | GPLv3 |
-| [VISO2 Python](https://github.com/AtlasBuggy/libviso2-python) ![VISO2 Python](https://img.shields.io/github/stars/AtlasBuggy/libviso2-python.svg)| No | GPLv3 inflicted |
+| [VISO2 Python](https://github.com/AtlasBuggy/libviso2-python) ![VISO2 Python](https://img.shields.io/github/stars/AtlasBuggy/libviso2-python.svg)| No | GPLv3 contamination |
 | [MonoVO Python](https://github.com/uoip/monoVO-python) ![MonoVO Python](https://img.shields.io/github/stars/uoip/monoVO-python.svg)| No | N/A
 | [DPPTAM](https://github.com/alejocb/dpptam) | No | GPLv3 |
 | [StVO-PL](https://github.com/rubengooj/StVO-PL) ![StVO-PL](https://img.shields.io/github/stars/rubengooj/StVO-PL.svg)| Yes | GPLv3 |
 | [PL-SLAM](https://github.com/rubengooj/pl-slam) ![PL-SLAM](https://img.shields.io/github/stars/rubengooj/pl-slam.svg) | Yes | GPLv3 |
 | [MSCKF_VIO](https://github.com/KumarRobotics/msckf_vio) ![MSCKF_VIO](https://img.shields.io/github/stars/KumarRobotics/msckf_vio.svg)| Yes | GPLv3/CC BY-NC 3.0-like |
-| [REBiVO](https://github.com/JuanTarrio/rebvo) [REBiVO](https://img.shields.io/github/stars/JuanTarrio/rebvo.svg) | No | GPLv3 |
-| [R-VIO](https://github.com/rpng/R-VIO.git)
-
-
+| [REBiVO](https://github.com/JuanTarrio/rebvo) ![REBiVO](https://img.shields.io/github/stars/JuanTarrio/rebvo.svg) | No | GPLv3 |
+| [R-VIO](https://github.com/rpng/R-VIO.git) ![R-VIO](https://img.shields.io/github/stars/rpng/R-VIO.svg) | Yes | GPLv3 |
+| [DeepVO Tensorflow](https://github.com/ildoonet/deepvo) ![DeepVO TF](https://img.shields.io/github/stars/ildoonet/deepvo.svg)| No | MIT |  
+| [DeepVO PyTorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) ![DeepVO PyTorch](https://img.shields.io/github/stars/ChiWeiHsiao/DeepVO-pytorch.svg)| Yes | N/A |
+| [DF-VO](https://github.com/Huangying-Zhan/DF-VO) ![DF-VO](https://img.shields.io/github/stars/Huangying-Zhan/DF-VO.svg)| Yes | MIT |
+| [okvis](https://github.com/ethz-asl/okvis) ![okvis](https://img.shields.io/github/stars/ethz-asl/okvis.svg) | No | BSD-3 |
+| [geomapnet](https://github.com/NVlabs/geomapnet) ![geomapnet](https://img.shields.io/github/stars/NVlabs/geomapnet.svg)| Yes | CC BY-NC-SA 4.0 |
+| [Momo](https://github.com/johannes-graeter/momo) [geomapnet](https://img.shields.io/github/stars/johannes-graeter/momo.svg)| No | LGPLv3 |
 
 #### Additional information
 **Active** is used loosely and subjectively, pretty much if I see that either some PR has been merged, commit has been made or even some maintainer/author has addressed an issue the past 9 - 12 month I consider it active.
@@ -87,3 +91,4 @@ https://github.com/avisingh599/mono-vo
 https://github.com/AtsushiSakai/PythonRobotics
 https://github.com/tzutalin/awesome-visual-slam
 https://github.com/marknabil/SFM-Visual-SLAM
+https://github.com/openMVG/awesome_3DReconstruction_list
