@@ -64,7 +64,7 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 | [DF-VO](https://github.com/Huangying-Zhan/DF-VO) ![DF-VO](https://img.shields.io/github/stars/Huangying-Zhan/DF-VO.svg)| Yes | MIT |
 | [okvis](https://github.com/ethz-asl/okvis) ![okvis](https://img.shields.io/github/stars/ethz-asl/okvis.svg) | No | BSD-3 |
 | [geomapnet](https://github.com/NVlabs/geomapnet) ![geomapnet](https://img.shields.io/github/stars/NVlabs/geomapnet.svg)| Yes | CC BY-NC-SA 4.0 |
-| [Momo](https://github.com/johannes-graeter/momo) [geomapnet](https://img.shields.io/github/stars/johannes-graeter/momo.svg)| No | LGPLv3 |
+| [Momo](https://github.com/johannes-graeter/momo) ![Momo](https://img.shields.io/github/stars/johannes-graeter/momo.svg)| No | LGPLv3 |
 
 #### Additional information
 **Active** is used loosely and subjectively, pretty much if I see that either some PR has been merged, commit has been made or even some maintainer/author has addressed an issue the past 9 - 12 month I consider it active.
