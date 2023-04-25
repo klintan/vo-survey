@@ -18,8 +18,10 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 | -- | -- | -- |
 | Comparison of modern open-source Visual SLAM approaches | 2023 | https://link.springer.com/article/10.1007/s10846-023-01812-7 |
 | Deep Learning Techniques for Visual SLAM: A Survey | 2023 | https://ieeexplore.ieee.org/abstract/document/10054007 |
+| The list of vision-based SLAM / Visual Odometry open source projects, libraries, dataset, tools, and studies | 2022 | https://github.com/tzutalin/awesome-visual-slam |
+| Another list of Visual-SLAM algorithms | 2022 | https://github.com/marknabil/SFM-Visual-SLAM |
 | A Comparison of Modern General-Purpose Visual SLAM Approaches | 2021 | https://arxiv.org/abs/2107.07589 |
-
+| List of SLAM / VO algorithms | 2017 | https://nbviewer.jupyter.org/github/kafendt/List-of-SLAM-VO-algorithms/blob/master/SLAM_table.pdf | 
 
 ## Packages and code
 
@@ -78,6 +80,7 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 | [DF-VO](https://github.com/Huangying-Zhan/DF-VO) ![DF-VO](https://img.shields.io/github/stars/Huangying-Zhan/DF-VO.svg)| No | MIT | None | Yes / No | No | N/A | 2019 (2022-03) | https://arxiv.org/abs/1909.09803v2 |
 | [okvis](https://github.com/ethz-asl/okvis) ![okvis](https://img.shields.io/github/stars/ethz-asl/okvis.svg) | No | BSD-3 |
 | [geomapnet](https://github.com/NVlabs/geomapnet) ![geomapnet](https://img.shields.io/github/stars/NVlabs/geomapnet.svg)| No | CC BY-NC-SA 4.0 |
+| [Mono-VO](https://github.com/avisingh599/mono-vo) | No | MIT |
 
 
 #### Additional information
@@ -102,10 +105,10 @@ I'm mostly interested in ROS2, so I do not break down the version on different r
 
 
 ### Other VO resources
-- https://github.com/gaoxiang12/slambook
-- https://github.com/avisingh599/mono-vo
-- https://github.com/AtsushiSakai/PythonRobotics
-- https://github.com/tzutalin/awesome-visual-slam
-- https://github.com/marknabil/SFM-Visual-SLAM
-- https://github.com/openMVG/awesome_3DReconstruction_list
-- https://nbviewer.jupyter.org/github/kafendt/List-of-SLAM-VO-algorithms/blob/master/SLAM_table.pdf
+| Link | Descritpion |
+| -- | -- |
+| https://github.com/KopanevPavel/SLAM-Dockers | Docker-container for different SLAM-algorithms |
+| https://github.com/gaoxiang12/slambook | Code written for a book about visual SLAM called "14 lectures on visual SLAM" which was released in April 2017. |
+| https://github.com/AtsushiSakai/PythonRobotics | Python code collection of robotics algorithms (basics, without V-SLAM or VO) |
+| https://github.com/openMVG/awesome_3DReconstruction_list | A curated list of papers & resources linked to 3D reconstruction from images. |
+
