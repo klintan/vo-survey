@@ -23,6 +23,7 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 
 | Package  |  Active | License | Topics published |  Stereo/Mono  | SLAM | ROS version | Year (last update) | Paper  | 
 |---|---|---|---|---|---|---|---|---|
+| [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) | (somewhat*) | GPLv3 | N/A | Yes / Yes | Yes | N/A | 2020 (2022-02) | https://ieeexplore.ieee.org/abstract/document/9440682
 | [XIVO](https://github.com/ucla-vision/xivo) ![XIVO](https://img.shields.io/github/stars/ucla-vision/xivo.svg)| Yes | GPLv3/CC BY-NC 3.0-like | None | Yes / Yes | N/A | 1 | 2019 (2023-03) | http://vision.ucla.edu/papers/tsotsosCS15.pdf |
 | [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) ![VINS-Mono](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/VINS-Mono.svg)| Yes | GPLv3 | None | Yes / Yes | No | 1 | 2017 (2022-09) | https://ieeexplore.ieee.org/document/8421746/?arnumber=8421746&source=authoralert | 
 | [OpenVINS](https://github.com/rpng/open_vins) ![OpenVINS](https://img.shields.io/github/stars/rpng/open_vins.svg)| Yes | GPLv3 | None | Yes / Yes | N/A | 1 | 2019 (2023-04) | https://udel.edu/~ghuang/iros19-vins-workshop/papers/06.pdf | 
@@ -72,6 +73,8 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 
 #### Additional information
 **Active** is used loosely and subjectively, pretty much if I see that either some PR has been merged, commit has been made or even some maintainer/author has addressed an issue the past 12 month I consider it active.
+
+*somewhat* for ORB-SLAM3 means that people are working on it but the main author is not reacting to pull requests, but its SOTA.
 
 Some libraries are addded that do not have a ROS-wrapper, however they might be there because it would be fairly straightforward to write a wrapper, or because the implementation is interesting for inspiration or similar.
 
