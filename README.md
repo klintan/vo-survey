@@ -12,6 +12,15 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 - Wheel odometry - using the size and angular motion (rotation) of the robots wheels calculate how the robot is moving.
  
 
+## Other Surveys/Paper
+
+| Title | Year | Link |
+| -- | -- | -- |
+| Comparison of modern open-source Visual SLAM approaches | 2023 | https://link.springer.com/article/10.1007/s10846-023-01812-7 |
+| Deep Learning Techniques for Visual SLAM: A Survey | 2023 | https://ieeexplore.ieee.org/abstract/document/10054007 |
+| A Comparison of Modern General-Purpose Visual SLAM Approaches | 2021 | https://arxiv.org/abs/2107.07589 |
+
+
 ## Packages and code
 
 ### SLAM
