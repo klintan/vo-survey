@@ -61,8 +61,6 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 | [DPPTAM](https://github.com/alejocb/dpptam) | No | GPLv3 |
 | [StVO-PL](https://github.com/rubengooj/StVO-PL) ![StVO-PL](https://img.shields.io/github/stars/rubengooj/StVO-PL.svg)| No | GPLv3 |
 | [PL-SLAM](https://github.com/rubengooj/pl-slam) ![PL-SLAM](https://img.shields.io/github/stars/rubengooj/pl-slam.svg) | No | GPLv3 |
-
-
 | [MSCKF_VIO](https://github.com/KumarRobotics/msckf_vio) ![MSCKF_VIO](https://img.shields.io/github/stars/KumarRobotics/msckf_vio.svg)| No | GPLv3/CC BY-NC 3.0-like |
 | [REBiVO](https://github.com/JuanTarrio/rebvo) ![REBiVO](https://img.shields.io/github/stars/JuanTarrio/rebvo.svg) | No | GPLv3 |
 | [DeepVO Tensorflow](https://github.com/ildoonet/deepvo) ![DeepVO TF](https://img.shields.io/github/stars/ildoonet/deepvo.svg)| No | MIT |  N/A | Yes / Yes | No | 2017 | https://arxiv.org/abs/1709.08429 |
