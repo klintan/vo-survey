@@ -16,7 +16,7 @@ Beware and avoid the GPL and CC Non-commercial licensed stuff, mostly just there
 
 | Title | Year | Link |
 | -- | -- | -- |
-| Comparison of modern open-source Visual SLAM approaches | 2023 | https://link.springer.com/article/10.1007/s10846-023-01812-7 |
+| Comparison of modern open-source Visual SLAM approaches | 2023 | https://arxiv.org/abs/2108.01654 |
 | Deep Learning Techniques for Visual SLAM: A Survey | 2023 | https://ieeexplore.ieee.org/abstract/document/10054007 |
 | The list of vision-based SLAM / Visual Odometry open source projects, libraries, dataset, tools, and studies | 2022 | https://github.com/tzutalin/awesome-visual-slam |
 | Another list of Visual-SLAM algorithms | 2022 | https://github.com/marknabil/SFM-Visual-SLAM |
